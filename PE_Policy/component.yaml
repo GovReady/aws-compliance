@@ -5,7 +5,7 @@ schema_version: 2.0
 default_control: &control
   covered_by: []
   implementation_status: none
-  narrative: 'The underlying AWS physical infrastructure has already been certified for this control.'
+  narrative: 'The underlying AWS physical infrastructure has already been certified for physical environment control.'
   standard_key: NIST-800-53
 
 satisfies:
